@@ -32,8 +32,8 @@ If I don't use edge detection for alignment, the aligned images look awful. Here
 ![](image3.jpg)
 No edge detection used on the top. Used edge detection on the bottom. 
 
-## Gerekli Ortam ve Kütüphaneler
-| Kütüphane     | Versiyon      |
+## Requirements
+| Env/Libs      | Version       |
 | ------------- |:-------------:|
 | Python        | 3.8.3         |
 | OpenCV        | 4.0.1         |
