@@ -10,5 +10,5 @@ Russia where the children would be able to learn about their country. These nega
 possession by the Library of Congress of U.S.A., and have been recently digitized. They are available on-line at 
 [2]
 
-[1] http://en.wikipedia.org/wiki/Prokudin-Gorskii
-[2] http://www.loc.gov/exhibits/empire/gorskii.html
+[1]: http://en.wikipedia.org/wiki/Prokudin-Gorskii
+[2]: http://www.loc.gov/exhibits/empire/gorskii.html
