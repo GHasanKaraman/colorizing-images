@@ -12,3 +12,18 @@ possession by the Library of Congress of U.S.A., and have been recently digitize
 
 [1]: http://en.wikipedia.org/wiki/Prokudin-Gorskii
 [2]: http://www.loc.gov/exhibits/empire/gorskii.html
+
+# Purpose
+
+This project produces a color image with negative images.
+
+## The Steps
+
+- Split the image into three color channel images.
+- Ignore the image borders.
+- Apply sobel edge detection to the RGB images.
+- Find out displacement vectors by using exhaustive search. (Minimize SSD)
+- Align three color channel images to each other.
+
+![](image1.jpg)
+![](image2.jpg)
