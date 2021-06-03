@@ -27,3 +27,16 @@ This project produces a color image with negative images.
 
 ![](image1.jpg)
 ![](image2.jpg)
+
+If I don't use edge detection for alignment, the aligned images look awful. Here is an example of them:
+![](image3.jpg)
+No edge detection used on the top. Used edge detection on the bottom. 
+
+## Gerekli Ortam ve Kütüphaneler
+| Kütüphane     | Versiyon      |
+| ------------- |:-------------:|
+| Python        | 3.8.3         |
+| OpenCV        | 4.0.1         |
+| Numpy         | 1.17.4        |
+| glob2         | 0.7           |
+| Matplotlib    | 3.3.2         |
