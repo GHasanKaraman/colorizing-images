@@ -30,7 +30,7 @@ This project produces a color image with negative images.
 
 If I don't use edge detection for alignment, the aligned images look awful. Here is an example of them:
 ![](image3.jpg)
-No edge detection used on the top. Used edge detection on the bottom. 
+No edge detection used on the top but the bottom. 
 
 ## Requirements
 | Env/Libs      | Version       |
